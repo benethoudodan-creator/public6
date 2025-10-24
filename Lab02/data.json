@@ -1,0 +1,27 @@
+{
+    "chart_title": "Sample Chart Data",
+    "data_points": [
+        {
+            "Device": "Phone",
+            "Amount": 0
+        },
+        {
+            "Device": "Tablet/iPad",
+            "Amount": 0
+        },
+        {
+            "Device": "Computer/Laptop",
+            "Amount": 0
+        },
+        {
+            "Device": "Headphone/Audio Device",
+            "Amount": 0
+        },
+
+		{
+            "Device": "Video Game Console",
+            "Amount": 0
+        }
+
+    ]
+}
